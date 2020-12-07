@@ -10,9 +10,3 @@ A simple finite element analysis code for 2D Hyper-elastic problems. The code us
 
 [Documentation (Clic to access)](https://nbviewer.jupyter.org/github/jucavel09/FEM_Hyperelastic/blob/main/NB_FINAL/Proyecto_Final_FEM.ipynb#)
 
-
-## Running a Simultion:
-
-To run a simulation, the followign input files must be stored in the same folder as the python files:
-
-![some text](attachment.png)
